@@ -1,1 +1,1 @@
-# SamplePro
+# Sample
